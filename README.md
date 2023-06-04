@@ -1,6 +1,6 @@
 # CRUD-serverless
 ## Diagrama del proyecto
-![Diagrama](src/ddb-crud.png)
+![Diagrama](CRUD-serverless/src/ddb-crud.png)
 ## Componentes del diagrama:
  -Api Gateway, Lambda y DynamoDB
 ## Implentación
